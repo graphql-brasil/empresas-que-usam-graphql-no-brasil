@@ -8,22 +8,22 @@ Nome | Cidade | Tecnologias Relacionadas
 [Astrocoders](https://astrocoders.com) | Sorocaba, SP | React, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 [Boticário](https://www.boticario.com.br/) |  | React, Redux, Apollo
 [Codengage](https://www.codengage.com/) | Dois Vizinhos, PR | React, React Native, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
-[Convenia](https://convenia.com.br) | São Paulo - SP | Vue, Vuex, GraphQL, Apollo, NodeJS, PHP, MySQL, DynamoDB
+[Convenia](https://convenia.com.br) | São Paulo - SP | Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB
 [Curso Ênfase](https://www.cursoenfase.com.br) | São Carlos, SP<br/>Rio de Janeiro, RJ | React, Relay, Redux, Ducks, Material-ui, Webpack
-[Decision6](https://decision6.com) | Rio de Janeiro - RJ | Vue, GraphQL, Apollo, Node, Restify, Go, PHP, PostgreSQL
+[Decision6](https://decision6.com) | Rio de Janeiro - RJ | Vue, Apollo, Node, Restify, Go, PHP, PostgreSQL
 [Digibee](https://www.digibee.com.br/) | São Paulo, SP | React, React-Native, Redux, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React, React-Native, Redux, Saga
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | React, Jest, Next.js, React Native, Redux, Reselect
 [Entria](https://entria.com.br/) | São Paulo, SP | React, Redux, Relay, Saga, Styled Components
-[GETTY/IO](https://getty.io) | São Paulo, SP | React, React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
+[GETTY/IO](https://getty.io) | São Paulo, SP | React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | React, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
-[Ignus](https://ignusdigital.recruitee.com) | Rio de Janeiro - RJ | React, React Native, GraphQL, Apollo, Node
+[Ignus](https://ignusdigital.recruitee.com) | Rio de Janeiro - RJ | React, React Native, Apollo, Node
 [In Loco](http://inloco.com.br) | Recife, PE | React, Node, React Native, Redux, Apollo, Jest, Enzyme, Deck&#46;gl, Mapbox, Leaflet, Semantic-UI, Storybook, Webpack
 [JP7](https://www.jp7.com.br) | São Paulo, SP | React, React Native, Redux
 [Jusbrasil](https://www.jusbrasil.com.br) | São Paulo, SP<br/>Salvador, BA | React, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 [kunst](https://kunst.com.br/) |   | React, Gatsby, Styled Components, Redux, Next.js, Apollo, React Native
 [Loggi](http://www.loggi.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG  | React, React Native, React Native Web, CSS Modules, Styled Components, React-Router, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
-[LogusTech](https://logus.tech) | Recife - PE | Vue, Vuex, GraphQL, Node, Apollo, Flask, MongoDB, MariaDB
+[LogusTech](https://logus.tech) | Recife - PE | Vue, Vuex, Node, Apollo, Flask, MongoDB, MariaDB
 [M4U](https://www.m4u.com.br/) | Rio de Janeiro, RJ | React, Redux, Saga, Jest, Enzyme
 [Napp Solutions](https://nappsolutions.com/) |  | React, React-Native, Native Base, Redux, MongoDB, Relay
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React, React Native, Next.js, Redux, Apollo, Ramda, Recompose, Functional Programming
@@ -31,8 +31,8 @@ Nome | Cidade | Tecnologias Relacionadas
 [OneMarket](https://onemarket.com.br) | São Paulo, SP | React, Apollo, Saga, Glamorous
 [Pipefy](https://pipefy.com) | São Paulo, SP<br/>Curitiba, PR | React, React Native
 [QUANTO](https://contaquanto.com.br/) | São Paulo, SP | React, React Native, Relay, Redux, Jest, Styled Components
-[Rivendel](https://rivendel.com.br/) | São Paulo, SP | React, Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
-[Shawee](https://shawee.io) | São Paulo, SP | React, Redux, Apollo/GraphQL
+[Rivendel](https://rivendel.com.br/) | São Paulo, SP | React, Redux, Saga, Material-UI, Immutable.js, Jest, Relay, React-Leaflet, Redux-Immutable.
+[Shawee](https://shawee.io) | São Paulo, SP | React, Redux, Apollo
 [sigalei](https://sigalei.com.br) | São Carlos, SP | React, Redux, Relay, Material-UI
 [Startaê](https://startae.com/) |  | React, Gatsby, Recompose, Styled Components, React Router, Redux, Apollo
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React, React-Native, Redux, Relay, Immutable, Styled Components
