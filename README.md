@@ -2,6 +2,9 @@
 
 > OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil/blob/master/CONTRIBUTING.md)
 
+[Para versão mobile acesse aqui.](MOBILE.md)
+
+
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
 [AQUARELA](https://aquarela.studio/) | Salvador, BA | React, Redux, Jest, React Native, Reactotron, Redux Saga, Webpack, Next.js
