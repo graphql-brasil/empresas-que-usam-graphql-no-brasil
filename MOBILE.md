@@ -11,11 +11,11 @@ React, Redux, Jest, React Native, Reactotron, Redux Saga, Webpack, Next.js
 Sorocaba, SP                 
 React, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 
-[Boticário](https://www.boticario.com.br/) 
+[Boticário](https://www.boticario.com.br/)         
 React, Redux, Apollo
 
 [Codengage](https://www.codengage.com/) 
-Dois Vizinhos, PR 
+Dois Vizinhos, PR                    
 React, React Native, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
 
 [Convenia](https://convenia.com.br)              
