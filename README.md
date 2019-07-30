@@ -45,6 +45,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | React, Redux
 [Taller](https://taller.net.br/) |  | React, Redux, Redux Boot, Jest, Enzyme, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
 [Vagas.com](https://www.vagas.com.br/trabalhe-conosco/oportunidades) | São Paulo, SP | React, Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless/Relay, Next.js, Husk
+[Venturi X Soluções em TI](https://www.vntrx.com/) | São Paulo, SP | React, React Native, Redux, Apollo/GraphQL, C#, Jest, Styled Components
 [Vizir Software Studio](https://vizir.com.br/) | São Paulo, SP | React, React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | React, Redux, Apollo Jest, React Native
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | React, Redux, Jest
