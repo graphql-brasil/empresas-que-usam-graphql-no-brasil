@@ -78,6 +78,10 @@ React, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpac
 [kunst](https://kunst.com.br/) 
 React, Gatsby, Styled Components, Redux, Next.js, Apollo, React Native
 
+[Liv Up](https://www.livup.com.br/)  
+São Paulo, SP  
+Next.js, Redux, Styled Components, GraphQL, React-Router, Webpack, Storybook, Cypress, React Native
+
 [Loggi](http://www.loggi.com/) 
 São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG  
 React, React Native, React Native Web, CSS Modules, Styled Components, React-Router, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
