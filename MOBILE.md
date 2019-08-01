@@ -80,7 +80,7 @@ React, Gatsby, Styled Components, Redux, Next.js, Apollo, React Native
 
 [Liv Up](https://www.livup.com.br/)  
 São Paulo, SP  
-Next.js, Redux, Styled Components, GraphQL, React-Router, Webpack, Storybook, Cypress, React Native
+React, Next.js, Redux, Styled Components, React-Router, Webpack, Storybook, Cypress, React Native
 
 [Loggi](http://www.loggi.com/) 
 São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG  
