@@ -75,6 +75,10 @@ São Paulo, SP | React, React Native, Redux
 São Paulo, SP<br/>Salvador, BA 
 React, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 
+[KeepClear](https://www.keepclear.com.br/)
+São Paulo, SP
+React, Hooks, Router, Apollo, TypeScript, Styled Components, Grommet.io, Jest, Enzyme
+
 [kunst](https://kunst.com.br/) 
 React, Gatsby, Styled Components, Redux, Next.js, Apollo, React Native
 
