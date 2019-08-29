@@ -25,11 +25,11 @@ Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB
 [Curso Ênfase](https://www.cursoenfase.com.br) 
 São Carlos, SP<br/>Rio de Janeiro, RJ | React, Relay, Redux, Ducks, Material-ui, Webpack
 
-[Decision6](https://decision6.com) 
-Rio de Janeiro - RJ 
+[Decision6](https://decision6.com)         
+Rio de Janeiro - RJ                   
 Vue, Apollo, Node, Restify, Go, PHP, PostgreSQL
 
-[Digibee](https://www.digibee.com.br/) 
+[Digibee](https://www.digibee.com.br/)              
 São Paulo, SP 
 React, React-Native, Redux, Styled Components
 
