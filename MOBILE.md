@@ -160,8 +160,8 @@ Rio de Janeiro, RJ | React, Redux, Apollo Jest, React Native
 Rio de Janeiro, RJ 
 React, Redux, Jest
 
-[Wedy](https://site.wedy.com)
-São Leopoldo, RS
+[Wedy](https://site.wedy.com)   
+São Leopoldo, RS      
 Vue, Vuex, Apollo, Nuxt, Capacitor, Lottie, Testcafe, Webpack, MySQL
 
 [Yube](http://www.yube.com.br/) 
