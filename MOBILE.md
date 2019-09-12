@@ -53,6 +53,10 @@ Relay, Jest, MongoDB, Node, React, React Native, Webpack
 Florianópolis, SC 
 Relay, Jest, MongoDB, Node, React, React Native, Webpack, Apollo
 
+[FW7](http://fw7.com.br/)
+Blumenau, SC
+Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
+
 [GETTY/IO](https://getty.io)
 São Paulo, SP 
 React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
