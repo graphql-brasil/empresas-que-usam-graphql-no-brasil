@@ -18,9 +18,9 @@ Nome | Cidade | Tecnologias Relacionadas
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React, React-Native, Redux, Saga
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | React, Jest, Next.js, React Native, Redux, Reselect
 [Entria](https://entria.com.br/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
-[FW7](http://fw7.com.br/) | Blumenau, SC | Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
 [Feedback House](https://feedback.house/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
 [Foton](https://fotontech.io) | Florianópolis, SC | Relay, Jest, MongoDB, Node, React, React Native, Webpack, Apollo
+[FW7](http://fw7.com.br/) | Blumenau, SC | Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
 [GETTY/IO](https://getty.io) | São Paulo, SP | React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | React, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
 [Ignus](https://ignusdigital.recruitee.com) | Rio de Janeiro - RJ | React, React Native, Apollo, Node
