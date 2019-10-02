@@ -14,6 +14,10 @@ React, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, 
 [Boticário](https://www.boticario.com.br/)         
 React, Redux, Apollo
 
+[Casa Magalhães](https://www.casamagalhaes.com.br/)              
+Fortaleza - CE    
+Vue, Vuex, NodeJS, DynamoDB
+
 [Codengage](https://www.codengage.com/) 
 Dois Vizinhos, PR                    
 React, React Native, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
