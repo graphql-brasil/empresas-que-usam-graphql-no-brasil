@@ -21,6 +21,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Entria](https://entria.com.br/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
 [Feedback House](https://feedback.house/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
 [Foton](https://fotontech.io) | Florianópolis, SC | Relay, Jest, MongoDB, Node, React, React Native, Webpack, Apollo
+[Fundação CERTI](https://certi.org.br/) | Florianópolis, SC | Apollo, Relay, Graphene
 [FW7](http://fw7.com.br/) | Blumenau, SC | Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
 [GETTY/IO](https://getty.io) | São Paulo, SP | React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | React, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
