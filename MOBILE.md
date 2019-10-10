@@ -57,6 +57,10 @@ Relay, Jest, MongoDB, Node, React, React Native, Webpack
 Florianópolis, SC 
 Relay, Jest, MongoDB, Node, React, React Native, Webpack, Apollo
 
+[Fundação CERTI](https://certi.org.br/)
+Florianópolis, SC
+Apollo, Relay, Graphene
+
 [FW7](http://fw7.com.br/)
 Blumenau, SC
 Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
