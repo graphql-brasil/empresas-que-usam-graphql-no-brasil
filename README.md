@@ -43,6 +43,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | React, Redux, Saga, Material-UI, Immutable.js, Jest, Relay, React-Leaflet, Redux-Immutable.
 [Shawee](https://shawee.io) | São Paulo, SP | React, Redux, Apollo
 [sigalei](https://sigalei.com.br) | São Carlos, SP | React, Redux, Relay, Material-UI
+[Softplan](https://www.softplan.com.br/) | Florianópolis, SC | React, Apollo, React Testing Library, Micro Frontends, Material-UI
 [Startaê](https://startae.com/) |  | React, Gatsby, Recompose, Styled Components, React Router, Redux, Apollo
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React, React-Native, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | React, Redux, Relay
