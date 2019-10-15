@@ -140,6 +140,10 @@ React, Redux, Apollo
 São Carlos, SP 
 React, Redux, Relay, Material-UI
 
+[Softplan](https://www.softplan.com.br) 
+Florianópolis, SC 
+React, Apollo, React Testing Library, Micro Frontends, Material-UI
+
 [Startaê](https://startae.com/) 
 React, Gatsby, Recompose, Styled Components, React Router, Redux, Apollo
 
