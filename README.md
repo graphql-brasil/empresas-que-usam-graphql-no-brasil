@@ -1,9 +1,37 @@
-# Empresas que usam GraphQL no Brasil
 
-> OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil/blob/master/CONTRIBUTING.md)
+<div align="center">
+  <img  width="350" height="350" src="https://avatars2.githubusercontent.com/u/48294218?s=500&v=4" width="350" alt="GraphQL Brasil">
+	<br>
+	<br>
+	<p>
+		<a href="https://graphqlconf.com.br/#/">
+			<b>graphqlconf.com.br</b>
+		</a>
+	</p>
+	<br>
+</div>
+<p align="center">
+	<sub><i>Também confira nossos outros projetos</i></sub>
+  <br/>
+	<a href="https://github.com/graphql-brasil/vagas/issues?q=is%3Aopen+is%3Aissue">Procurando emprego?</a>&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
 
-[Para versão mobile acesse aqui.](MOBILE.md)
+[📱 Para versão mobile acesse aqui.](MOBILE.md)
 
+Repositório responsável em listar empresas e projetos que utilizam nosso querido **[GraphQL](https://graphql.org/)**
+
+Todas as empresas e/ou projetos são bem-vindas e gostaríamos muito de ver esta lista crescer, sinta-se livre para contribuir.
+
+Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações
+
+> caso tenha dificuldades sempre pode perguntar no **[Slack](https://react.now.sh)**
+
+## Contribuições, dúvidas e melhorias. 😃
+
+Para propor melhorias, basta abrir uma **[issue](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** 😉e desde já agradecemos.
+
+## Empresas
 
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
@@ -60,9 +88,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Zup IT Innovation](http://www.zup.com.br/) | São Paulo, SP<br/>Uberlândia, MG | React, Redux, Saga, MobX, Jest, Enzyme, Apollo, Styled Components, Immutable
 [ZX Ventures](https://zx-ventures.com/) |  | React, React-Native, Redux, Apollo/Relay
 
-## Projetos que usam GraphQL no Brasil
-
-> Obs. Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações.
+## Projetos
 
 Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
