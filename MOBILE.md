@@ -164,7 +164,7 @@ React, Redux, Redux Boot, Jest, Enzyme, Apollo, CSS Modules, Styled Components, 
 São Paulo, SP 
 React, Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless/Relay, Next.js, Husk
 
-[Venturi X Soluções em Ti](https://www.vntrx.com) 
+[Venturi X Soluções em TI](https://www.vntrx.com) 
 São Paulo, SP 
 React, React Native, Redux, Apollo/GraphQL, C#, Jest, Styled Components
 
