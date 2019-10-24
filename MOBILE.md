@@ -147,6 +147,10 @@ React, Apollo, React Testing Library, Micro Frontends, Material-UI
 [Startaê](https://startae.com/) 
 React, Gatsby, Recompose, Styled Components, React Router, Redux, Apollo
 
+[StartSe](https://www.startse.com/)
+<br/>São Paulo, SP<br/> Palo Alto, CA<br/>
+React, Redux, React Native, GraphQL
+
 [stq digital](https://stqpublicidade.com.br/) 
 São Paulo, SP 
 React, React-Native, Redux, Relay, Immutable, Styled Components
