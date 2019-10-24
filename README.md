@@ -73,6 +73,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [sigalei](https://sigalei.com.br) | São Carlos, SP | React, Redux, Relay, Material-UI
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | React, Apollo, React Testing Library, Micro Frontends, Material-UI
 [Startaê](https://startae.com/) |  | React, Gatsby, Recompose, Styled Components, React Router, Redux, Apollo
+[StartSe](https://www.startse.com/) | São Paulo, SP<br/> Palo Alto, CA | React, Redux, React Native, GraphQL
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React, React-Native, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | React, Redux, Relay
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | React, Redux
