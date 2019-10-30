@@ -43,6 +43,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Convenia](https://convenia.com.br) | São Paulo - SP | Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB
 [Curso Ênfase](https://www.cursoenfase.com.br) | São Carlos, SP<br/>Rio de Janeiro, RJ | React, Relay, Redux, Ducks, Material-ui, Webpack
 [Decision6](https://decision6.com) | Rio de Janeiro - RJ | Vue, Apollo, Node, Restify, Go, PHP, PostgreSQL
+[DevGrid](https://devgrid.co.uk) | Caxias do Sul, RS<br/>Florianópolis, SC | React, Redux, React Native, Router, Material UI, Next.js, MobX, Node, Jest, Enzyme, Cypress
 [Digibee](https://www.digibee.com.br/) | São Paulo, SP | React, React-Native, Redux, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React, React-Native, Redux, Saga
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | React, Jest, Next.js, React Native, Redux, Reselect
