@@ -26,6 +26,10 @@ React, React Native, Jest, styled-components, react-testing-library, Cypress, re
 São Paulo - SP       
 Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB
 
+[Cotabox](https://cotabox.com.br)              
+São Paulo - SP<br/>Botucatu, SP        
+Vue, Vuex, Node, Mongodb, Jest, Nuxt.js, Apollo, AWS Lambda, Cypress
+
 [Curso Ênfase](https://www.cursoenfase.com.br) 
 São Carlos, SP<br/>Rio de Janeiro, RJ | React, Relay, Redux, Ducks, Material-ui, Webpack
 
