@@ -117,6 +117,10 @@ React, Redux, Saga, Jest, Enzyme
 [Napp Solutions](https://nappsolutions.com/) 
 React, React-Native, Native Base, Redux, MongoDB, Relay
 
+[Nexo Jornal](https://nexojornal.com.br)
+São Paulo, SP
+React, Isomorphic, SSR Node
+
 [NSC Comunicação](https://www.nsccomunicacao.com.br) 
 Florianópolis, SC 
 React, React Native, Next.js, Redux, Apollo, Ramda, Recompose, Functional Programming
