@@ -29,7 +29,7 @@ Alguns projetos são de startups ainda em concepção ou incubadas dentro de emp
 
 ## Contribuições, dúvidas e melhorias. 😃
 
-Para propor melhorias, basta abrir uma **[issue](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** 😉e desde já agradecemos.
+Para propor melhorias, basta abrir uma **[issue](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil/issues)** nesse repositório. Mas fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** 😉e desde já agradecemos.
 
 ## Empresas
 
