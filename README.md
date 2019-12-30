@@ -56,6 +56,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [FW7](http://fw7.com.br/) | Blumenau, SC | Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
 [GETTY/IO](https://getty.io) | São Paulo, SP | React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | React, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
+[Ignição Digital](https://www.ignicaodigital.com.br/) | Brasília - DF | Vue, Vuex, Jest, Ruby
 [Ignus](https://ignusdigital.recruitee.com) | Rio de Janeiro - RJ | React, React Native, Apollo, Node
 [In Loco](http://inloco.com.br) | Recife, PE | React, Node, React Native, Redux, Apollo, Jest, Enzyme, Deck&#46;gl, Mapbox, Leaflet, Semantic-UI, Storybook, Webpack
 [JP7](https://www.jp7.com.br) | São Paulo, SP | React, React Native, Redux
