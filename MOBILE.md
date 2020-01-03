@@ -30,6 +30,9 @@ Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB
 São Paulo - SP<br/>Botucatu, SP        
 Vue, Vuex, Node, Mongodb, Jest, Nuxt.js, Apollo, AWS Lambda, Cypress
 
+[Cubo](https://cubo.network) 
+São Paulo, SP<br/> Angular, Apollo, AWS, Cypress, Lambda, Node, Serverless, TypeScript
+
 [Curso Ênfase](https://www.cursoenfase.com.br) 
 São Carlos, SP<br/>Rio de Janeiro, RJ | React, Relay, Redux, Ducks, Material-ui, Webpack
 
