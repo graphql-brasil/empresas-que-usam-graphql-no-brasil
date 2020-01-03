@@ -81,6 +81,9 @@ React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
 Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC 
 React, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
 
+[Ignição Digital](https://www.ignicaodigital.com.br/) 
+Brasília - DF | Vue, Vuex, Jest, Ruby
+
 [Ignus](https://ignusdigital.recruitee.com) 
 Rio de Janeiro - RJ | React, React Native, Apollo, Node
 
