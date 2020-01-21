@@ -51,6 +51,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | React, Jest, Next.js, React Native, Redux, Reselect
 [Entria](https://entria.com.br/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
 [Feedback House](https://feedback.house/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
+[FESC](https://www.fescsaude.com.br/) | Joinville, SC | Vue, Vuex, Java, Spring Boot, Cypress
 [Foton](https://fotontech.io) | Florianópolis, SC | Relay, Jest, MongoDB, Node, React, React Native, Webpack, Apollo
 [Fundação CERTI](https://certi.org.br/) | Florianópolis, SC | Apollo, Relay, Graphene
 [FW7](http://fw7.com.br/) | Blumenau, SC | Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
