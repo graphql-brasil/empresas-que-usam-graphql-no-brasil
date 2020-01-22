@@ -64,7 +64,7 @@ Relay, Jest, MongoDB, Node, React, React Native, Webpack
 São Paulo, SP 
 Relay, Jest, MongoDB, Node, React, React Native, Webpack
 
-[FESC](https://fescsaude.com.br)  
+[FESC](https://www.fescsaude.com.br)  
 Joinville, SC  
 Vue, Vuex, Java, Spring Boot, Cypress
 
