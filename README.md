@@ -72,6 +72,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Nexo Jornal](https://nexojornal.com.br) | São Paulo, SP | React, Isomorphic, SSR Node
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React, React Native, Next.js, Redux, Apollo, Ramda, Recompose, Functional Programming
 [Nubank](https://nubank.com.br/) | São Paulo, SP<br/>Campinas, SP<br/>Rio de Janeiro, RJ | React, React Native
+[Ochain](https://ochain.com.br) | Florianópolis, SC | React, Apollo, Prisma, Jest, Styled Components, K8s, Gitlab
 [OneMarket](https://onemarket.com.br) | São Paulo, SP | React, Apollo, Saga, Glamorous
 [Pipefy](https://pipefy.com) | São Paulo, SP<br/>Curitiba, PR | React, React Native
 [QUANTO](https://contaquanto.com.br/) | São Paulo, SP | React, React Native, Relay, Redux, Jest, Styled Components
