@@ -143,6 +143,11 @@ React, React Native, Next.js, Redux, Apollo, Ramda, Recompose, Functional Progra
 São Paulo, SP<br/>Campinas, SP<br/>Rio de Janeiro, RJ 
 React, React Native
 
+[Ochain](https://ochain.com.br) 
+Florianópolis, SC 
+React, Apollo, Prisma, Jest, Styled Components, K8s, Gitlab
+🏠🏢
+
 [OneMarket](https://onemarket.com.br) 
 São Paulo, SP 
 React, Apollo, Saga, Glamorous
