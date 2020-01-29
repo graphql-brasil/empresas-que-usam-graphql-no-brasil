@@ -146,6 +146,7 @@ React, React Native
 [Ochain](https://ochain.com.br) 
 Florianópolis, SC 
 React, Apollo, Prisma, Jest, Styled Components, K8s, Gitlab
+🏠🏢
 
 [OneMarket](https://onemarket.com.br) 
 São Paulo, SP 
