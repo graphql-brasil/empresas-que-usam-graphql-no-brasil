@@ -14,6 +14,10 @@ React, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, 
 [Boticário](https://www.boticario.com.br/)         
 React, Redux, Apollo
 
+[Caju Benefícios](https://caju.com.br)
+São Paulo, SP
+React Native, Redux, Sagas, Relay, GraphQL, Cypress, Styled-components, React Testing Library, Hooks
+
 [Casa Magalhães](https://www.casamagalhaes.com.br/)              
 Fortaleza - CE    
 Vue, Vuex, NodeJS, DynamoDB
