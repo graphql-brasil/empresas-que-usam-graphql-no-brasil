@@ -38,7 +38,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [AQUARELA](https://aquarela.studio/) | Salvador, BA | React, Redux, Jest, React Native, Reactotron, Redux Saga, Webpack, Next.js
 [Astrocoders](https://astrocoders.com) | Sorocaba, SP | React, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 [Boticário](https://www.boticario.com.br/) |  | React, Redux, Apollo
-[Caju Benefícios](https://caju.com.br) | São Paulo, SP | React Native, Redux, Sagas, Relay, GraphQL, Cypress, Styled-components, React Testing Library, Hooks
+[Caju Benefícios](https://caju.com.br) | São Paulo, SP | React Native, React, Redux, Sagas, Relay, Cypress, Styled-components, React Testing Library, Hooks
 [Casa Magalhães](https://www.casamagalhaes.com.br/) | Fortaleza - CE | Vue, Vuex, NodeJS, DynamoDB
 [Codengage](https://www.codengage.com/) | Dois Vizinhos, PR | React, React Native, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
 [Convenia](https://convenia.com.br) | São Paulo - SP | Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB

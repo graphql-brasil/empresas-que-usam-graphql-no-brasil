@@ -16,7 +16,7 @@ React, Redux, Apollo
 
 [Caju Benefícios](https://caju.com.br)
 São Paulo, SP
-React Native, Redux, Sagas, Relay, GraphQL, Cypress, Styled-components, React Testing Library, Hooks
+React Native, React, Redux, Sagas, Relay, Cypress, Styled-components, React Testing Library, Hooks
 
 [Casa Magalhães](https://www.casamagalhaes.com.br/)              
 Fortaleza - CE    
