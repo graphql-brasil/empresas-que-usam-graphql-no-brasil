@@ -115,8 +115,7 @@ Moeda | https://moedaseeds.com | React, Gatsby, Recompose, Styled-Components, Re
 https://graphql-slack.now.sh (em português!)
 
 ## Core members
-
-[![Gabriel Ferreira](https://avatars1.githubusercontent.com/u/17201177?s=64&v=4)](https://github.com/gabrielferreiraa) | [![Nic](https://avatars0.githubusercontent.com/u/66042?s=64&v=4)](https://github.com/nic)
-|---|---|
-| Gabriel Ferreira | Nic |
-| [@gabrielferreiraa](https://github.com/gabrielferreiraa) | [@nic](https://github.com/nic) |
+[![João Marins](https://avatars2.githubusercontent.com/u/5133450?s=64&v=4)](https://github.com/jgcmarins) | [![Gabriel Ferreira](https://avatars1.githubusercontent.com/u/17201177?s=64&v=4)](https://github.com/gabrielferreiraa) | [![Nic](https://avatars0.githubusercontent.com/u/66042?s=64&v=4)](https://github.com/nic)
+|---|---|---|
+João Marins | Gabriel Ferreira | Nic |
+[@jgcmarins](https://github.com/jgcmarins) | [@gabrielferreiraa](https://github.com/gabrielferreiraa) | [@nic](https://github.com/nic) |
