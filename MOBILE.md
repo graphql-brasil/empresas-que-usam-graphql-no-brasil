@@ -2,6 +2,9 @@
 
 > OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil/blob/master/CONTRIBUTING.md)
 
+[Ao Cubo](https://aocubo.com)
+São Paulo, SP
+React-Native, Redux, Next, Graphql, Apollo
 
 [AQUARELA](https://aquarela.studio/)            
 Salvador, BA         
@@ -87,6 +90,10 @@ Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
 [GETTY/IO](https://getty.io)
 São Paulo, SP 
 React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
+
+[Go-K](https://gok.digital)
+São Paulo, SP
+React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, GraphQL, Apollo, Storybook, TypeScript
 
 [HBSIS](https://hbsis.com.br/)
 Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC 

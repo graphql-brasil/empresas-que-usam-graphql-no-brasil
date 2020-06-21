@@ -35,6 +35,7 @@ Para propor melhorias, basta abrir uma **[issue](https://github.com/graphql-bras
 
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
+[Ao Cubo](https://aocubo.com) | São Paulo, SP | React-Native, Redux, Next, Graphql, Apollo
 [AQUARELA](https://aquarela.studio/) | Salvador, BA | React, Redux, Jest, React Native, Reactotron, Redux Saga, Webpack, Next.js
 [Astrocoders](https://astrocoders.com) | Sorocaba, SP | React, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 [Boticário](https://www.boticario.com.br/) |  | React, Redux, Apollo
@@ -57,6 +58,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Fundação CERTI](https://certi.org.br/) | Florianópolis, SC | Apollo, Relay, Graphene
 [FW7](http://fw7.com.br/) | Blumenau, SC | Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
 [GETTY/IO](https://getty.io) | São Paulo, SP | React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
+[Go-K](https://gok.digital) | São Paulo, SP | React, React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, GraphQL, Apollo, Storybook, TypeScript
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | React, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
 [Ignição Digital](https://www.ignicaodigital.com.br/) | Brasília - DF | Vue, Vuex, Jest, Ruby
 [Ignus](https://ignusdigital.recruitee.com) | Rio de Janeiro - RJ | React, React Native, Apollo, Node
