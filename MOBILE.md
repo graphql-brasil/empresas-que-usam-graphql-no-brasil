@@ -174,6 +174,11 @@ React, React Native, Relay, Redux, Jest, Styled Components
 São Paulo, SP 
 React, Redux, Saga, Material-UI, Immutable.js, Jest, Relay, React-Leaflet, Redux-Immutable.
 
+[Rethink](https://rethink.dev)
+Belo Horizonte, MG
+React Web & Native, Styled Components, Router, Redux, Saga, Material-UI, Jest, Enzyme, Typescript, Immutable.js, GraphQL
+🏠🏢
+
 [Sanar](https://www.editorasanar.com.br) 
 Salvador, BA
 React, React Native, Redux, Redux-Saga, Styled Components, Apollo
