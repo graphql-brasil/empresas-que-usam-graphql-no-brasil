@@ -176,7 +176,7 @@ React, Redux, Saga, Material-UI, Immutable.js, Jest, Relay, React-Leaflet, Redux
 
 [Rethink](https://rethink.dev)
 Belo Horizonte, MG
-React Web & Native, Styled Components, Router, Redux, Saga, Material-UI, Jest, Enzyme, Typescript, Immutable.js, GraphQL
+React Web & Native, Styled Components, Router, Redux, Saga, Material-UI, Jest, Enzyme, Typescript, Immutable.js
 🏠🏢
 
 [Sanar](https://www.editorasanar.com.br) 
