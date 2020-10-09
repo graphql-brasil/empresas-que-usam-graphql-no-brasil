@@ -124,3 +124,4 @@ https://graphql-slack.now.sh (em português!)
 |---|---|---|
 João Marins | Gabriel Ferreira | Nic |
 [@jgcmarins](https://github.com/jgcmarins) | [@gabrielferreiraa](https://github.com/gabrielferreiraa) | [@nic](https://github.com/nic) |
+[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | https://ifrs.edu.br/ | React, Sequelize, Express, Apollo & Node | Bento Gonçalves - RS
