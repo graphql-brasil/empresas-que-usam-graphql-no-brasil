@@ -67,6 +67,10 @@ React, Jest, Next.js, React Native, Redux, Reselect
 São Paulo, SP 
 Relay, Jest, MongoDB, Node, React, React Native, Webpack
 
+[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs)
+Bento Gonçalves, RS
+React, Sequelize, Express, Apollo & Node 
+
 [Feedback House](https://feedback.house/) 
 São Paulo, SP 
 Relay, Jest, MongoDB, Node, React, React Native, Webpack

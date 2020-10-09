@@ -52,6 +52,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React, React-Native, Redux, Saga
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | React, Jest, Next.js, React Native, Redux, Reselect
 [Entria](https://entria.com.br/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
+[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | Bento Gonçalves, RS | React, Sequelize, Express, Apollo & Node 
 [Feedback House](https://feedback.house/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
 [FESC](https://www.fescsaude.com.br/) | Joinville, SC | Vue, Vuex, Java, Spring Boot, Cypress
 [Foton](https://fotontech.io) | Florianópolis, SC | Relay, Jest, MongoDB, Node, React, React Native, Webpack, Apollo
@@ -124,3 +125,4 @@ https://graphql-slack.now.sh (em português!)
 |---|---|---|
 João Marins | Gabriel Ferreira | Nic |
 [@jgcmarins](https://github.com/jgcmarins) | [@gabrielferreiraa](https://github.com/gabrielferreiraa) | [@nic](https://github.com/nic) |
+
