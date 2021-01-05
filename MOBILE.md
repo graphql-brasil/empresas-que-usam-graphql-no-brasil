@@ -178,6 +178,10 @@ React, React Native
 São Paulo, SP 
 React, React Native, Relay, Redux, Jest, Styled Components
 
+[Quóro](https://www.quoro.com.br)
+Santa Terezinha de Itaipu, PR
+Typescript, Next.js, Relay, React, Context API, Hooks, react-hook-form, Recoil, TailwindCss, Styled Components, Jest, Playwright
+
 [Rivendel](https://rivendel.com.br/) 
 São Paulo, SP 
 React, Redux, Saga, Material-UI, Immutable.js, Jest, Relay, React-Leaflet, Redux-Immutable.
