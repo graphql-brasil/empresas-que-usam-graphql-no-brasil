@@ -74,6 +74,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [LogusTech](https://logus.tech) | Recife - PE | Vue, Vuex, Node, Apollo, Flask, MongoDB, MariaDB
 [M4U](https://www.m4u.com.br/) | Rio de Janeiro, RJ | React, Redux, Saga, Jest, Enzyme
 [Mobly](https://www.mobly.com.br/) | São Paulo, SP | Vue.JS, React / React Native, Angular.JS, Node.js, MongoDB, Docker
+[PagSeguro Pagbank](https://pagseguro.uol.com.br/) | São Paulo, SP | React, Node.js, Redux, Next
 [Napp Solutions](https://nappsolutions.com/) |  | React, React-Native, Native Base, Redux, MongoDB, Relay
 [Nexo Jornal](https://nexojornal.com.br) | São Paulo, SP | React, Isomorphic, SSR Node
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React, React Native, Next.js, Redux, Apollo, Ramda, Recompose, Functional Programming
