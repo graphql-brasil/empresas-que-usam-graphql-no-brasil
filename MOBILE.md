@@ -239,6 +239,8 @@ React, React Native, Redux, Apollo/GraphQL, C#, Jest, Styled Components
 São Paulo, SP 
 React, React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
 
+[Volanty](https://volanty.com/) Rio de Janeiro, RJ | São paulo, SP  React, Redux, Apollo/GraphQL, Next.JS, Jest, Ramda, Styled Components, Material-UI, Vue, Vuex, MongoDB, Firebase
+
 [Voltbras](https://voltbras.com.br/)
 Florianópolis, SC
 React, React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
