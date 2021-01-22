@@ -98,6 +98,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Vagas.com](https://www.vagas.com.br/trabalhe-conosco/oportunidades) | São Paulo, SP | React, Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless/Relay, Next.js, Husk
 [Venturi X Soluções em TI](https://www.vntrx.com/) | São Paulo, SP | React, React Native, Redux, Apollo/GraphQL, C#, Jest, Styled Components
 [Vizir Software Studio](https://vizir.com.br/) | São Paulo, SP | React, React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
+[Volanty](https://volanty.com/) | Rio de Janeiro, RJ<br/>São paulo, SP | React, Redux, Apollo/GraphQL, Next.JS, Jest, Ramda, Styled Components, Material-UI, Vue, Vuex, MongoDB, Firebase
 [Voltbras](https://voltbras.com.br/) | Florianópolis, SC | React, React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | React, Redux, Apollo Jest, React Native
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | React, Redux, Jest
