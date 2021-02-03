@@ -171,6 +171,10 @@ React, Apollo, Prisma, Jest, Styled Components, K8s, Gitlab
 São Paulo, SP 
 React, Apollo, Saga, Glamorous
 
+[PagSeguro Pagbank](https://pagseguro.uol.com.br/)
+São Paulo, SP
+React, Node.js, Redux, Next
+
 [Pipefy](https://pipefy.com) | São Paulo, SP<br/>Curitiba, PR 
 React, React Native
 
