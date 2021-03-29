@@ -45,6 +45,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Convenia](https://convenia.com.br) | São Paulo - SP | Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB
 [Cotabox](http://www.cotabox.com.br/) | São Paulo, SP<br/>Botucatu, SP | Vue, Vuex, Node, Mongodb, Jest, Nuxt.js, Apollo, AWS Lambda, Cypress
 [Cubo](https://cubo.network) | São Paulo, SP | Angular, Apollo, AWS, Cypress, Lambda, Node, Serverless, TypeScript
+[Cuidas](https://www.cuidas.com.br/) | São Paulo - SP | RN, React, Typescript, Apollo, Node.js
 [Curso Ênfase](https://www.cursoenfase.com.br) | São Carlos, SP<br/>Rio de Janeiro, RJ | React, Relay, Redux, Ducks, Material-ui, Webpack
 [Decision6](https://decision6.com) | Rio de Janeiro - RJ | Vue, Apollo, Node, Restify, Go, PHP, PostgreSQL
 [DevGrid](https://devgrid.co.uk) | Caxias do Sul, RS<br/>Florianópolis, SC | React, Redux, React Native, Router, Material UI, Next.js, MobX, Node, Jest, Enzyme, Cypress
