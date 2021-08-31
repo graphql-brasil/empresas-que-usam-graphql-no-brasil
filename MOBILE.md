@@ -175,6 +175,11 @@ Florianópolis, SC
 React, Apollo, Prisma, Jest, Styled Components, K8s, Gitlab
 🏠🏢
 
+[Oito.work](https://oito.work)
+Curitiba, PR <br/> Salvador, BA <br/> Belo Horizonte, BH
+React, Apollo, Mobx, Jest, Styled Components, Web3js, Ethers
+🏠🏢
+
 [OneMarket](https://onemarket.com.br) 
 São Paulo, SP 
 React, Apollo, Saga, Glamorous
