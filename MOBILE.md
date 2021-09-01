@@ -68,7 +68,7 @@ React, Jest, Next.js, React Native, Redux, Reselect
 
 [Enext](https://enext.com.br/)
 São Paulo, SP
-Redux, Styled Components, GraphQL
+React, Redux, Styled Components
 🏠
 
 [Entria](https://entria.com.br/) 

@@ -52,7 +52,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Digibee](https://www.digibee.com.br/) | São Paulo, SP | React, React-Native, Redux, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React, React-Native, Redux, Saga
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | React, Jest, Next.js, React Native, Redux, Reselect
-[Enext](https://enext.com.br/) | São Paulo, SP | Redux, Styled Components, GraphQL | 🏠
+[Enext](https://enext.com.br/) | São Paulo, SP | React, Redux, Styled Components | 🏠
 [Entria](https://entria.com.br/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
 [Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | Bento Gonçalves, RS | React, Sequelize, Express, Apollo & Node 
 [Feedback House](https://feedback.house/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
