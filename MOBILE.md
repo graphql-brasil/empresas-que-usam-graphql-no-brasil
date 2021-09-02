@@ -66,6 +66,11 @@ React, React-Native, Redux, Saga
 Uberlândia, MG 
 React, Jest, Next.js, React Native, Redux, Reselect
 
+[Enext](https://enext.com.br/)
+São Paulo, SP
+React, Redux, Styled Components
+🏠
+
 [Entria](https://entria.com.br/) 
 São Paulo, SP 
 Relay, Jest, MongoDB, Node, React, React Native, Webpack
