@@ -151,6 +151,10 @@ Vue, Vuex, Node, Apollo, Flask, MongoDB, MariaDB
 Rio de Janeiro, RJ 
 React, Redux, Saga, Jest, Enzyme
 
+[Movile](https://www.movile.com.br/)
+Campinas - SP
+React, Redux, Styled Components, TypeScript
+
 [Mobly](https://www.mobly.com.br/)
 São Paulo, SP
 Vue.JS, React / React Native, Angular.JS, Node.js, MongoDB, Docker
