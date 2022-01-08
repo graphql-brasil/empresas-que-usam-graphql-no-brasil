@@ -43,6 +43,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Casa Magalhães](https://www.casamagalhaes.com.br/) | Fortaleza - CE | Vue, Vuex, NodeJS, DynamoDB
 [Codengage](https://www.codengage.com/) | Dois Vizinhos, PR | React, React Native, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
 [Convenia](https://convenia.com.br) | São Paulo - SP | Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB
+[Corebiz](https://www.corebiz.ag) | Barueri - SP | React, Redux, Typescript, Apollo, React Native, Styled Components, Gatsby, Next.js, Node
 [Cotabox](http://www.cotabox.com.br/) | São Paulo, SP<br/>Botucatu, SP | Vue, Vuex, Node, Mongodb, Jest, Nuxt.js, Apollo, AWS Lambda, Cypress
 [Cubo](https://cubo.network) | São Paulo, SP | Angular, Apollo, AWS, Cypress, Lambda, Node, Serverless, TypeScript
 [Cuidas](https://www.cuidas.com.br/) | São Paulo - SP | RN, React, Typescript, Apollo, Node.js
