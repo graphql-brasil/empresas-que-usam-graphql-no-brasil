@@ -203,6 +203,10 @@ React, React Native, Relay, Redux, Jest, Styled Components
 Santa Terezinha de Itaipu, PR
 Typescript, Next.js, Relay, React, Context API, Hooks, react-hook-form, Recoil, TailwindCss, Styled Components, Jest, Playwright
 
+[Riderize](https://www.riderize.com/) 
+Rio do Sul, SC 
+React, Typescript, Next.js, Context API, Hooks. Relay, Recoil.
+
 [Rivendel](https://rivendel.com.br/) 
 São Paulo, SP 
 React, Redux, Saga, Material-UI, Immutable.js, Jest, Relay, React-Leaflet, Redux-Immutable.

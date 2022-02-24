@@ -88,6 +88,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Pipefy](https://pipefy.com) | São Paulo, SP<br/>Curitiba, PR | React, React Native
 [QUANTO](https://contaquanto.com.br/) | São Paulo, SP | React, React Native, Relay, Redux, Jest, Styled Components
 [Quóro](https://www.quoro.com.br) | Santa Terezinha de Itaipu, PR | Typescript, Next.js, Relay, React, Context API, Hooks, react-hook-form, Recoil, TailwindCss, Styled Components, Jest, Playwright
+[Riderize](https://www.riderize.com/) | Rio do Sul, SC | React, Typescript, Next.js, Context API, Hooks. Relay, Recoil.
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | React, Redux, Saga, Material-UI, Immutable.js, Jest, Relay, React-Leaflet, Redux-Immutable.
 [Rethink](https://rethink.dev) | Belo Horizonte, MG | React Web & Native, Styled Components, Router, Redux, Saga, Material-UI, Jest, Enzyme, Typescript, Immutable.js
 [Sanar](https://www.editorasanar.com.br) | Salvador, BA | React, React Native, Redux, Redux-Saga, Styled Components, Apollo
