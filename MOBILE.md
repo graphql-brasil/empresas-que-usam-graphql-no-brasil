@@ -33,6 +33,10 @@ React, React Native, Jest, styled-components, react-testing-library, Cypress, re
 São Paulo - SP       
 Vue, Vuex, Apollo, NodeJS, PHP, MySQL, DynamoDB
 
+[Corebiz](https://www.corebiz.ag)              
+Barueri - SP       
+React, Redux, Typescript, Apollo, React Native, Styled Components, Gatsby, Next.js, Node
+
 [Cotabox](https://cotabox.com.br)              
 São Paulo - SP<br/>Botucatu, SP        
 Vue, Vuex, Node, Mongodb, Jest, Nuxt.js, Apollo, AWS Lambda, Cypress
