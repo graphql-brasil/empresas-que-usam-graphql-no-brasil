@@ -286,6 +286,10 @@ React, Redux, Jest
 São Leopoldo, RS      
 Vue, Vuex, Apollo, Nuxt, Capacitor, Lottie, Testcafe, Webpack, MySQL
 
+[Woovi](https://woovi.com))
+São Paulo, SP
+React, Redux, Relay, Styled Components, Emotion, Webpack
+
 [Yube](http://www.yube.com.br/) 
 São Paulo, SP 
 React, JSS, Apollo/GraphQL, Jest, Enzyme
