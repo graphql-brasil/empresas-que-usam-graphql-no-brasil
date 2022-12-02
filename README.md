@@ -110,6 +110,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | React, Redux, Apollo Jest, React Native
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | React, Redux, Jest
 [Wedy](https://site.wedy.com) | São Leopoldo, RS| Vue, Vuex, Apollo, Nuxt, Capacitor, Lottie, Testcafe, Webpack, MySQL
+[Woovi](https://woovi.com) | São Paulo, SP | React, Redux, Relay, Styled Components, Emotion, Webpack
 [Yube](http://www.yube.com.br/) | São Paulo, SP | React, JSS, Apollo/GraphQL, Jest, Enzyme
 [Zap Imóveis](https://www.zapimoveis.com.br/) | São Paulo, SP | React, Redux, Jest
 [Zup IT Innovation](http://www.zup.com.br/) | São Paulo, SP<br/>Uberlândia, MG | React, Redux, Saga, MobX, Jest, Enzyme, Apollo, Styled Components, Immutable
