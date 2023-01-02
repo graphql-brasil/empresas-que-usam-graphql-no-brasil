@@ -91,6 +91,10 @@ Relay, Jest, MongoDB, Node, React, React Native, Webpack
 Joinville, SC  
 Vue, Vuex, Java, Spring Boot, Cypress
 
+[Flash Benefícios](https://www.flashapp.com.br/)  
+São Paulo, SP  
+GraphQl, Apollo, Apollo Federation, TypeScript
+
 [Foton](https://fotontech.io) 
 Florianópolis, SC 
 Relay, Jest, MongoDB, Node, React, React Native, Webpack, Apollo
