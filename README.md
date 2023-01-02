@@ -58,12 +58,12 @@ Nome | Cidade | Tecnologias Relacionadas
 [Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | Bento Gonçalves, RS | React, Sequelize, Express, Apollo & Node 
 [Feedback House](https://feedback.house/) | São Paulo, SP | Relay, Jest, MongoDB, Node, React, React Native, Webpack
 [FESC](https://www.fescsaude.com.br/) | Joinville, SC | Vue, Vuex, Java, Spring Boot, Cypress
-[Flash Benefícios](https://www.flashapp.com.br/) | São Paulo, SP | GraphQl, Apollo, Apollo Federation, TypeScript
+[Flash Benefícios](https://www.flashapp.com.br/) | São Paulo, SP | Apollo, Apollo Federation, TypeScript
 [Foton](https://fotontech.io) | Florianópolis, SC | Relay, Jest, MongoDB, Node, React, React Native, Webpack, Apollo
 [Fundação CERTI](https://certi.org.br/) | Florianópolis, SC | Apollo, Relay, Graphene
 [FW7](http://fw7.com.br/) | Blumenau, SC | Apollo-Client Apollo-Boost, Yoga, Merge-Schemas, Graphql-Request
 [GETTY/IO](https://getty.io) | São Paulo, SP | React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
-[Go-K](https://gok.digital) | São Paulo, SP | React, React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, GraphQL, Apollo, Storybook, TypeScript
+[Go-K](https://gok.digital) | São Paulo, SP | React, React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, Apollo, Storybook, TypeScript
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | React, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
 [Ignição Digital](https://www.ignicaodigital.com.br/) | Brasília - DF | Vue, Vuex, Jest, Ruby
 [Ignus](https://ignusdigital.recruitee.com) | Rio de Janeiro - RJ | React, React Native, Apollo, Node
@@ -71,7 +71,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [JP7](https://www.jp7.com.br) | São Paulo, SP | React, React Native, Redux
 [Jusbrasil](https://www.jusbrasil.com.br) | São Paulo, SP<br/>Salvador, BA | React, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 [KeepClear](https://www.keepclear.com.br/) | São Paulo, SP | React, Hooks, Router, Apollo, TypeScript, Styled Components, Grommet.io, Jest, Enzyme
-[Kovi](https://www.kovi.com.br/) | São Paulo, SP | React, Hooks, GraphQL, Apollo, Typescript, Styled Components, Jets
+[Kovi](https://www.kovi.com.br/) | São Paulo, SP | React, Hooks, Apollo, Typescript, Styled Components, Jets
 [kunst](https://kunst.com.br/) |   | React, Gatsby, Styled Components, Redux, Next.js, Apollo, React Native
 [Liferay](https://liferay.com/) | Recife, PE | Apollo, Sass, Clay UI, React, React Router, Redux, React Testing Library, Jest, Storybook (Web), Webpack, Babel
 [Loggi](http://www.loggi.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG  | React, React Native, React Native Web, CSS Modules, Styled Components, React-Router, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
@@ -98,21 +98,21 @@ Nome | Cidade | Tecnologias Relacionadas
 [sigalei](https://sigalei.com.br) | São Carlos, SP | React, Redux, Relay, Material-UI
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | React, Apollo, React Testing Library, Micro Frontends, Material-UI
 [Startaê](https://startae.com/) |  | React, Gatsby, Recompose, Styled Components, React Router, Redux, Apollo
-[StartSe](https://www.startse.com/) | São Paulo, SP<br/> Palo Alto, CA | React, Redux, React Native, GraphQL
+[StartSe](https://www.startse.com/) | São Paulo, SP<br/> Palo Alto, CA | React, Redux, React Native
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React, React-Native, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | React, Redux, Relay
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | React, Redux
 [Taller](https://taller.net.br/) |  | React, Redux, Redux Boot, Jest, Enzyme, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
 [Vagas.com](https://www.vagas.com.br/trabalhe-conosco/oportunidades) | São Paulo, SP | React, Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless/Relay, Next.js, Husk
-[Venturi X Soluções em TI](https://www.vntrx.com/) | São Paulo, SP | React, React Native, Redux, Apollo/GraphQL, C#, Jest, Styled Components
-[Vizir Software Studio](https://vizir.com.br/) | São Paulo, SP | React, React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
-[Volanty](https://volanty.com/) | Rio de Janeiro, RJ<br/>São paulo, SP | React, Redux, Apollo/GraphQL, Next.JS, Jest, Ramda, Styled Components, Material-UI, Vue, Vuex, MongoDB, Firebase
-[Voltbras](https://voltbras.com.br/) | Florianópolis, SC | React, React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
+[Venturi X Soluções em TI](https://www.vntrx.com/) | São Paulo, SP | React, React Native, Redux, Apollo, C#, Jest, Styled Components
+[Vizir Software Studio](https://vizir.com.br/) | São Paulo, SP | React, React Native, Redux, Apollo, Jest, Detox(e2e), Styled Components
+[Volanty](https://volanty.com/) | Rio de Janeiro, RJ<br/>São paulo, SP | React, Redux, Apollo, Next.JS, Jest, Ramda, Styled Components, Material-UI, Vue, Vuex, MongoDB, Firebase
+[Voltbras](https://voltbras.com.br/) | Florianópolis, SC | React, React Native, Redux, Apollo, Styled Components, NodeJS, Golang, Prisma
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | React, Redux, Apollo Jest, React Native
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | React, Redux, Jest
 [Wedy](https://site.wedy.com) | São Leopoldo, RS| Vue, Vuex, Apollo, Nuxt, Capacitor, Lottie, Testcafe, Webpack, MySQL
 [Woovi](https://woovi.com) | São Paulo, SP | React, Redux, Relay, Styled Components, Emotion, Webpack
-[Yube](http://www.yube.com.br/) | São Paulo, SP | React, JSS, Apollo/GraphQL, Jest, Enzyme
+[Yube](http://www.yube.com.br/) | São Paulo, SP | React, JSS, Apollo, Jest, Enzyme
 [Zap Imóveis](https://www.zapimoveis.com.br/) | São Paulo, SP | React, Redux, Jest
 [Zup IT Innovation](http://www.zup.com.br/) | São Paulo, SP<br/>Uberlândia, MG | React, Redux, Saga, MobX, Jest, Enzyme, Apollo, Styled Components, Immutable
 [ZX Ventures](https://zx-ventures.com/) |  | React, React-Native, Redux, Apollo/Relay
