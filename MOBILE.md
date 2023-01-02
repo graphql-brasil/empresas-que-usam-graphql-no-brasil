@@ -113,7 +113,7 @@ React, React Native, Redux, Apollo, Jest, Relay, Styled Components, Next.js
 
 [Go-K](https://gok.digital)
 São Paulo, SP
-React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, GraphQL, Apollo, Storybook, TypeScript
+React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, Apollo, Storybook, TypeScript
 
 [HBSIS](https://hbsis.com.br/)
 Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC 
@@ -245,7 +245,7 @@ React, Gatsby, Recompose, Styled Components, React Router, Redux, Apollo
 
 [StartSe](https://www.startse.com/)
 <br/>São Paulo, SP<br/> Palo Alto, CA<br/>
-React, Redux, React Native, GraphQL
+React, Redux, React Native
 
 [stq digital](https://stqpublicidade.com.br/) 
 São Paulo, SP 
@@ -266,17 +266,17 @@ React, Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components
 
 [Venturi X Soluções em TI](https://www.vntrx.com) 
 São Paulo, SP 
-React, React Native, Redux, Apollo/GraphQL, C#, Jest, Styled Components
+React, React Native, Redux, Apollo, C#, Jest, Styled Components
 
 [Vizir Software Studio](https://vizir.com.br/) 
 São Paulo, SP 
-React, React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
+React, React Native, Redux, Apollo, Jest, Detox(e2e), Styled Components
 
-[Volanty](https://volanty.com/) Rio de Janeiro, RJ | São paulo, SP  React, Redux, Apollo/GraphQL, Next.JS, Jest, Ramda, Styled Components, Material-UI, Vue, Vuex, MongoDB, Firebase
+[Volanty](https://volanty.com/) Rio de Janeiro, RJ | São paulo, SP  React, Redux, Apollo, Next.JS, Jest, Ramda, Styled Components, Material-UI, Vue, Vuex, MongoDB, Firebase
 
 [Voltbras](https://voltbras.com.br/)
 Florianópolis, SC
-React, React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
+React, React Native, Redux, Apollo, Styled Components, NodeJS, Golang, Prisma
 
 [VTEX](https://pt.vtex.com/) 
 São Paulo, SP<br/>
@@ -296,7 +296,7 @@ React, Redux, Relay, Styled Components, Emotion, Webpack
 
 [Yube](http://www.yube.com.br/) 
 São Paulo, SP 
-React, JSS, Apollo/GraphQL, Jest, Enzyme
+React, JSS, Apollo, Jest, Enzyme
 
 [Zap Imóveis](https://www.zapimoveis.com.br/) 
 São Paulo, SP 
